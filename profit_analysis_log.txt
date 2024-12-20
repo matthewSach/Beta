@@ -1,0 +1,4 @@
+Avg Profit: 393400.7341271, Min Profit: 2.41, Max Profit: 1738700.0
+Avg Profit: 392457.62036018, Min Profit: 2.41, Max Profit: 1738700.0
+Avg Profit: 392105.21228672017, Min Profit: 2.41, Max Profit: 1738700.0
+Avg Profit: 393101.4475500799, Min Profit: 2.41, Max Profit: 1738700.0
